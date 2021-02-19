@@ -1,0 +1,141 @@
+.menu{
+    display:flex;
+    justify-content:space-between;
+  
+  }
+.m{
+    justify-content:baseline;
+    
+}
+.item{
+    display:block;
+    justify-content:space-between;
+   
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    color:rgb(12, 1, 58);
+    border:solid;
+    border-radius: 20px;
+    background-color: rgb(105, 212, 231);
+}
+.p{
+    color:blue
+}
+.head{
+    color:green
+}
+.i{
+    display:block;
+    justify-content:space-between;
+   
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    color:rgb(12, 1, 58);
+    border:solid;
+    border-radius: 20px;
+    background-color: rgb(231, 105, 122);
+}
+.it{
+    display:block;
+    justify-content:space-between;
+   
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    color:rgb(12, 1, 58);
+    border:solid;
+    border-radius: 20px;
+    background-color: rgb(221, 105, 231);
+}
+.ite{
+    display:block;
+    justify-content:space-between;
+   
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    color:rgb(12, 1, 58);
+    border:solid;
+    border-radius: 20px;
+    background-color: rgb(231, 162, 105);
+}
+.iteem{
+    display:block;
+    justify-content:space-between;
+   
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    color:rgb(12, 1, 58);
+    border:solid;
+    border-radius: 20px;
+    background-color: rgb(105, 231, 116);
+}
+.itemm{
+    display:block;
+    justify-content:space-between;
+   
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    color:rgb(12, 1, 58);
+    border:solid;
+    border-radius: 20px;
+    background-color: rgb(231, 197, 105);
+    transform:scale(1)
+}
+a:link {
+    color: orange;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }  
+.item:hover{
+    transform:scale(1.04)
+}
+.itemm:hover{
+    transform:scale(1.04)
+}
+.iteem:hover{
+    transform:scale(1.04)
+}
+.ite:hover{
+    transform:scale(1.04)
+}
+.it:hover{
+    transform:scale(1.04)
+}
+.i:hover{
+    transform:scale(1.04)
+}
+.item:hover img{
+    opacity:0.5
+}
+.itemm:hover img{
+    opacity:0.5
+}
+.iteem:hover img{
+    opacity:0.5
+}
+.ite:hover img{
+    opacity:0.5
+}
+.it:hover img{
+    opacity:0.5
+}
+.i:hover img{
+    opacity:0.5
+}
+
